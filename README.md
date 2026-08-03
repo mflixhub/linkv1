@@ -1,6 +1,3 @@
-FIRST KEYSYSTEM: 
-DONE
+how can I make a luramor thingy where it generates key load string for lua script wokring and like this needs to be this loadstring(game:HttpGet(url/raw/url"))() working good and nice and add a key where I can make script on my script I make in this website working good and nice
 
-
-# SECOND KEY-SYSTEM: https://direct-link.net/7920537/0pXQYwgeLZsg
-FINAL:)
+can you make the theme color black and white gradient and shades and good and in it also have a defo protecting lua code working good and nice and working for exectuors good and nice and rename to "M-FlixHost" and make it also apple theme black and white and transparent semi see through good and nicely done polished in it good and advanced 
